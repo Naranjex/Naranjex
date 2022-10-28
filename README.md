@@ -2,8 +2,8 @@ ________________________________________________________________________________
 <h1>|Saudações!| Seja bem-vindo ao meu cafofo Dev!<h1>
  
 
-  <h4>- 🪐 Me chamo Rafael Naranjo, , possuo 18 anos./h4>
-  <h4>- 🎓  Atualmente estou cursando Análise e Desenvolvimento de Sistemas, na Universidade Paulista./h4>
+  <h4>- 🪐 Me chamo Rafael Naranjo, , possuo 18 anos.</h4>
+  <h4>- 🎓  Atualmente estou cursando Análise e Desenvolvimento de Sistemas, na Universidade Paulista.</h4>
     <h4>- 🌱 Estudando/Praticando: C, JavaScript, Html e CSS.</h4>
    _________________________________________________________________________________________________________________________________________________
 <div align="center">
