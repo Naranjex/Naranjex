@@ -5,7 +5,7 @@ ________________________________________________________________________________
   <h4>- 🪐 Me chamo Rafael Naranjo, , possuo 18 anos./h4>
   <h4>- 🎓  Atualmente estou cursando Análise e Desenvolvimento de Sistemas, na Universidade Paulista./h4>
     <h4>- 🌱 Estudando/Praticando: C, JavaScript, Html e CSS.</h4>
-   ________________________________________________________________________________________________________________________________________________________
+   _________________________________________________________________________________________________________________________________________________
 <div align="center">
   <a href="https://github.com/Naranjex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naranjex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
