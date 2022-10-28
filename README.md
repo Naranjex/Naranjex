@@ -1,4 +1,6 @@
-|Saudações!| Seja bem-vindo ao meu cafofo Dev!
+<h1>|Saudações!| Seja bem-vindo ao meu cafofo Dev!<h1>
+  
+  
 
 <div align="center">
   <a href="https://github.com/Naranjex">
@@ -11,7 +13,7 @@
   <img align="center" alt="NJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="NJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="right" alt="NJ-avatar" src="https://i.picasion.com/pic92/ca11bf461c4904936fbd92bc2878d34c.gif" width="250" height="250" border-radius="1000px" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
+<img align="right" alt="NJ-avatar" src="https://i.picasion.com/pic92/ca11bf461c4904936fbd92bc2878d34c.gif" width="300" height="300" border="50%" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
 </div>
   
   ##
